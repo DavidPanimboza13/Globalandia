@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "298236660869",
+    "firebase_url": "https://moviles-92dd2.firebaseio.com",
+    "project_id": "moviles-92dd2",
+    "storage_bucket": "moviles-92dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298236660869:android:1a6f518c2a21dfb5302dec",
+        "android_client_info": {
+          "package_name": "com.example.tienda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298236660869-h83f0ibnituh8v5mo4tuff6m173qrugs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3e5dMJu7bBU8c22t0TJ78qA1CF3P6-e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298236660869-h83f0ibnituh8v5mo4tuff6m173qrugs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
